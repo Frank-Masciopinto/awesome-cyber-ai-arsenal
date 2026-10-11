@@ -411,6 +411,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Page Index](https://github.com/VectifyAI/PageIndex) | RAG system that analyzes documents without chunks or vector databases | 
 | [Lite LLM](https://github.com/BerriAI/litellm) | A unified AI gateway for accessing and managing 100+ LLM providers through one API. |
 | [Anthropic-cybersecurity-skills](https://github.com/mukul975/anthropic-cybersecurity-skills) | Cybersecurity skills for Claude and other AI agents. | 
+| [REA](https://github.com/morluto/rea) | MCP server that lets AI agents reverse-engineer binaries, apps, and runtime behavior locally. |
 
 
 ### LLM Red Teaming & Vulnerability Scanning

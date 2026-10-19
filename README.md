@@ -436,6 +436,7 @@ Everything is split into **🔴 Offensive (Red Team)**, **🔵 Defensive (Blue T
 | [Rebuff](https://github.com/protectai/rebuff) | Prompt-injection detector with multi-layer defense. |
 | [Vigil](https://github.com/deadbits/vigil-llm) | Detect prompt injections, jailbreaks & risky inputs. |
 | [Giskard](https://github.com/Giskard-AI/giskard) | Test & scan ML/LLM models for vulnerabilities & bias. |
+| [Ironheights](https://github.com/Frank-Masciopinto/ironheights) | Local static scanner that checks OpenClaw and other agent skills for prompt injection, credential reads, remote-exec installs and persistence before install. |
 
 ### Uncensored / Local Models
 
